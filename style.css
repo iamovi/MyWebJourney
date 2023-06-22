@@ -1,0 +1,287 @@
+*{margin: 0; padding: 0;}
+
+body{
+    background-color: hsl(51, 68%, 80%);
+    margin: 20px auto;
+}
+
+.full-wrap{
+    width: 100%;
+}
+.wrap{
+    width: 960px;
+    display: block;
+    margin: 0 auto;
+    
+}
+.header-bg{
+    background: hsl(0, 0%, 0%);
+    border-bottom: 3px solid white
+}
+
+#header{
+    background-color: hsl(0, 0%, 0%);
+    padding: 15px;
+    border-left: 1px solid #880a0a;    
+    border-right: 1px solid #880a0a;   
+     
+}
+#header h2{
+    color: white;
+    font-variant: small-caps;
+    font-family: arial;
+    margin-left: 365px;
+    cursor: default;
+}
+#header p{
+    font-family: georgia;
+    font-style: oblique;
+    font-weight: bold;
+    margin-left: 348px;
+    cursor: default;
+    color: #f0ff05;
+}
+/** header ends **/
+
+.nav-bg{
+    background-color: #000000;
+    border-bottom: 3px solid white;
+}
+
+#nav{
+    background-color: black;
+    border-left: 1px solid #880a0a;    
+    border-right: 1px solid #880a0a;
+    border-radius: 7px;
+    
+    
+    
+}
+
+#nav ul{
+    background-color: black;
+    list-style-type: none;
+    height: 37.5px;
+    margin-left: 171px;
+    margin-right: 29px;
+    z-index: 10;
+}
+
+#nav ul li{
+    float: left;
+    border-right: 1.7px solid #eeeeee49;
+    
+}
+#nav ul li:last-child{
+    border: none;
+}
+
+#nav ul li a{
+    text-decoration: none;
+    color: #ff0000e0;
+    display: block;
+    padding: 10px 20px;
+    background-color: #363434a4;
+    font-family: arial;
+    transition: all 0.5s ease;
+    
+    
+}
+
+#nav ul li a:hover{
+    color: white;
+    background-color: #ff0000c4;
+    font-style: italic;
+    
+}
+/**** DropDown List below****/
+
+#nav ul li{ position: relative;}
+
+
+#nav ul li ul{
+    position: absolute;
+    left: -9999999px;
+    background-color:black ;
+    margin-left: 0;
+    
+}
+#nav ul li:hover ul{left: 0;}
+
+#nav ul li ul li{
+    float: none;
+    border-right: none;
+    background-color: black;
+    width: 160px;
+    border-bottom: 1.7px solid #eeeeee49;
+    
+}
+
+
+#nav ul li ul li:first-child{
+    border-top: 2.5px solid white;
+}
+/*** section starts ******/
+#slider_wrapper{
+    border-left: 1px solid #880a0a;    
+    border-right: 1px solid #880a0a;
+}
+.slider-bg{
+    background: #363434;
+}
+/** slider ends*******/
+
+.content-bg{
+    background: #363434;
+}
+
+#content_wrapper{
+    background-color: #FFFFFF;
+    border-right: 2px solid #880a0a;
+    border-left: 2px solid #880a0a;    
+    
+    
+    padding: 10px;
+    overflow: hidden;
+    
+    
+}
+#content{
+    width: 620px;
+    margin-left: 10px;
+    border-right: 1px solid orange ;
+    float:left
+    
+    
+}
+#content h2{
+    font-family: Arial;
+    margin-bottom: 6px;
+    font-variant: small-caps;
+    color: hsl(105, 29%, 97%);
+
+    animation-name: h2ani;
+    animation-iteration-count: infinite;
+    animation-duration: 1s;
+    animation-direction: alternate;
+    width: 325px;
+    padding-left: 4px;
+    border-radius: 5px;
+    text-align: center;
+}
+@keyframes h2ani{
+    from{background-color: black;}
+    to{background-color: #af0606; margin-left: 60px;}
+    
+    
+}
+#content p{
+    font-size: 22px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    
+}
+
+#sidebar{
+    width: 285px;
+    float: left;
+    margin-left: 20px;
+    cursor: default;
+    
+
+}
+#sidebar ul{
+    list-style-type: circle;
+}
+#sidebar h2{
+    color: #ffffff;
+    font-size: 18px;
+    font-family: arial;
+    
+    animation-name: sidebarh2ani;
+    animation-iteration-count: infinite;
+    animation-duration: 2.5s;
+    animation-direction: alternate;
+    padding: 6px;
+    width: 168px;
+    border-radius: 5px;
+    text-align: center;
+}
+@keyframes sidebarh2ani{
+    0%{background-color: #a80707;}
+    25%{background-color: #008000b6;}
+    50%{background-color: #0000ffa9;}
+    75%{background-color: rgba(23, 85, 135, 0.671);}
+    100%{background-color: #a10d0d;}
+    
+
+}
+
+#sidebar ul li{
+    margin-left: 18px;
+    
+}
+#sidebar ul li a{
+    display: block;
+    padding: 5px;
+    text-decoration: none;
+    font-weight: bold;
+    cursor: default;
+    
+}
+.note{
+    list-style-type: none;
+    border-top: 1px solid #ac0b41;
+    text-decoration: underline;
+    cursor: default;
+    color: #0d2f8d;
+    font-weight: bold;
+    font-style: italic;
+    
+}
+.note:last-child{
+    border-top: 0;
+    text-decoration: none;
+    padding: 5px;
+}
+
+/********* footer starts **************/
+
+.footer-bg{
+    background: #000000;
+}
+
+#footer{
+    background-color: #000000;
+    padding: 7px;
+    margin-top: 4px;
+    border-radius: 4px;
+}
+
+#footer p{
+    text-align: center;
+    color: #ffffff;
+    cursor: default;
+}
+
+
+/******inside page starts*****/
+#content blockquote{
+    background-color: #808080a6;
+    border-left: 2px solid red;
+    padding: 20px 14px;
+    
+
+}
+#content blockquote p {
+    margin-left: 20px;
+    font-style: italic;
+} 
+
+@font-face {
+    font-family: brush;
+    src: url(font/CaveatBrush-Regular.ttf);
+}
+.imp{
+    color: #4f03a5;
+    margin-left: 380px;
+}
