@@ -3,11 +3,11 @@
 - Uploaded in 2023.
 
 <div align="center">
-  <img src="https://github.com/iamovi/MyWebJourney/blob/main/website-preview/website-preview1.png" alt="Website Screenshot 01" width="400">
-  <img src="https://github.com/iamovi/MyWebJourney/blob/main/website-preview/website-preview2.png" alt="Website Screenshot 02" width="400">
+  <img src="https://github.com/iamovi/MyWebJourney/blob/main/website-preview/website-preview1.png" alt="Website Screenshot 01" width="80%">
+  <img src="https://github.com/iamovi/MyWebJourney/blob/main/website-preview/website-preview2.png" alt="Website Screenshot 02" width="80%">
   <br>
-  <img src="https://github.com/iamovi/MyWebJourney/blob/main/website-preview/website-preview3.png" alt="Website Screenshot 03" width="400">
-  <img src="https://github.com/iamovi/MyWebJourney/blob/main/website-preview/website-preview4.png" alt "Website Screenshot 04" width="400">
+  <img src="https://github.com/iamovi/MyWebJourney/blob/main/website-preview/website-preview3.png" alt="Website Screenshot 03" width="80%">
+  <img src="https://github.com/iamovi/MyWebJourney/blob/main/website-preview/website-preview4.png" alt "Website Screenshot 04" width="80%">
 </div>
 
 
@@ -64,5 +64,5 @@ Thank you for visiting my first website repository. It's a piece of history, a s
 
 <div align="center">
   <img src="https://github.com/iamovi/MyWebJourney/blob/main/helloooo.gif" alt="Wave GIF" width="300">
-  <p><strong>`HAVE A NICE DAY!`</strong></p>
+  <p><strong>💖 HAVE A NICE DAY! 💖</strong></p>
 </div>
