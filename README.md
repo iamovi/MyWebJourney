@@ -2,11 +2,14 @@
 
 - Uploaded in 2023.
 
-![Website Screenshot 01](https://github.com/iamovi/MyWebJourney/blob/main/website-preview/website-preview1.png)
-![Website Screenshot 02](https://github.com/iamovi/MyWebJourney/blob/main/website-preview/website-preview2.png)
+<div align="center">
+  <img src="https://github.com/iamovi/MyWebJourney/blob/main/website-preview/website-preview1.png" alt="Website Screenshot 01" width="400">
+  <img src="https://github.com/iamovi/MyWebJourney/blob/main/website-preview/website-preview2.png" alt="Website Screenshot 02" width="400">
+  <br>
+  <img src="https://github.com/iamovi/MyWebJourney/blob/main/website-preview/website-preview3.png" alt="Website Screenshot 03" width="400">
+  <img src="https://github.com/iamovi/MyWebJourney/blob/main/website-preview/website-preview4.png" alt "Website Screenshot 04" width="400">
+</div>
 
-![Website Screenshot 03](https://github.com/iamovi/MyWebJourney/blob/main/website-preview/website-preview3.png)
-![Website Screenshot 04](https://github.com/iamovi/MyWebJourney/blob/main/website-preview/website-preview4.png)
 
 🌟 Welcome to my very first website! 🌟
 
@@ -59,6 +62,7 @@ I'd like to express my gratitude to everyone who has supported me on my coding j
 
 Thank you for visiting my first website repository. It's a piece of history, a snapshot of where I started, and a reminder of the journey ahead. Enjoy exploring!
 
-![Wave GIF](https://github.com/iamovi/MyWebJourney/blob/main/helloooo.gif)
-
-`HAVE A NICE DAY!`
+<div align="center">
+  <img src="https://github.com/iamovi/MyWebJourney/blob/main/helloooo.gif" alt="Wave GIF" width="300">
+  <p><strong>`HAVE A NICE DAY!`</strong></p>
+</div>
