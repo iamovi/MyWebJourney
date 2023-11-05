@@ -2,7 +2,11 @@
 
 - Uploaded in 2023.
 
-![Website Screenshot](screenshot.png)
+![Website Screenshot 01](https://github.com/iamovi/MyWebJourney/blob/main/website-preview/website-preview1.png)
+![Website Screenshot 02](https://github.com/iamovi/MyWebJourney/blob/main/website-preview/website-preview2.png)
+
+![Website Screenshot 03](https://github.com/iamovi/MyWebJourney/blob/main/website-preview/website-preview3.png)
+![Website Screenshot 04](https://github.com/iamovi/MyWebJourney/blob/main/website-preview/website-preview4.png)
 
 🌟 Welcome to my very first website! 🌟
 
@@ -55,4 +59,6 @@ I'd like to express my gratitude to everyone who has supported me on my coding j
 
 Thank you for visiting my first website repository. It's a piece of history, a snapshot of where I started, and a reminder of the journey ahead. Enjoy exploring!
 
-![Wave GIF](wave.gif)
+![Wave GIF](https://github.com/iamovi/MyWebJourney/blob/main/helloooo.gif)
+
+`HAVE A NICE DAY!`
