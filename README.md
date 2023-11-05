@@ -3,13 +3,14 @@
 - Uploaded in 2023.
 
 <div align="center">
-  <img src="https://github.com/iamovi/MyWebJourney/blob/main/website-preview/website-preview1.png" alt="Website Screenshot 01" width="80%">
-  <img src="https://github.com/iamovi/MyWebJourney/blob/main/website-preview/website-preview2.png" alt="Website Screenshot 02" width="80%">
+  <img src="https://github.com/iamovi/MyWebJourney/blob/main/website-preview/website-preview1.png" alt="Website Screenshot 01" width="85%">
+  <img src="https://github.com/iamovi/MyWebJourney/blob/main/website-preview/website-preview2.png" alt="Website Screenshot 02" width="85%">
   <br>
-  <img src="https://github.com/iamovi/MyWebJourney/blob/main/website-preview/website-preview3.png" alt="Website Screenshot 03" width="80%">
-  <img src="https://github.com/iamovi/MyWebJourney/blob/main/website-preview/website-preview4.png" alt "Website Screenshot 04" width="80%">
+  <img src="https://github.com/iamovi/MyWebJourney/blob/main/website-preview/website-preview3.png" alt="Website Screenshot 03" width="85%">
+  <img src="https://github.com/iamovi/MyWebJourney/blob/main/website-preview/website-preview4.png" alt="Website Screenshot 04" width="85%">
 </div>
 
+---
 
 🌟 Welcome to my very first website! 🌟
 
