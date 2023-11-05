@@ -47,10 +47,6 @@ This website is a humble beginning, a testament to my passion for web developmen
 You can access the website by visiting [https://iamovi-firstweb.netlify.app](https://iamovi-firstweb.netlify.app).
 
 
-## Contributions
-
-I welcome any contributions or suggestions to improve this repository. If you have ideas for making my first website better, feel free to create issues or submit pull requests.
-
 ## License
 
 This project is licensed under the [MIT License] - see the [LICENSE](LICENSE) file for details.
